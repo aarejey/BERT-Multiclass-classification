@@ -455,16 +455,16 @@ Male,Gender
 43,Latitude
 36,Latitude
 36,Latitude
-46,Latitude
+9,Latitude
 40,Latitude
 42,Latitude
-41,Latitude
+120,Latitude
 39,Latitude
 38,Latitude
-32,Latitude
+89,Latitude
 48,Latitude
 47,Latitude
-32,Latitude
+12,Latitude
 -87,Longitude
 -83,Longitude
 -107,Longitude
@@ -705,3 +705,5 @@ Mitsubishi,Manufacturer
 TRUE,Boolean
 0,Boolean
 Falsee,Boolean
+FALSE,Boolean
+TRUE,Boolean
